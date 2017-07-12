@@ -1,8 +1,8 @@
 
-if(confirm("Estas contento en clase?")) {
+if(confirm("¿Aprendiste git?")) {
 	// lo que se hace si se cumple la condición
-	alert("en realidad todos los del grupo me caen bien");
+	alert("maravilloso!");
 } else {
 	// lo que se hace si NO se cumple la condición
-	alert("dígale al profesor como hace la clase más divertida");
+	alert("por favor, preste atención y tome nota");
 }
