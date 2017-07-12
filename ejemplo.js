@@ -4,5 +4,5 @@ if(confirm("Estas contento en clase?")) {
 	alert("me caes bien");
 } else {
 	// lo que se hace si NO se cumple la condición
-	alert("mejor quedese durmiendo en la casa");
+	alert("dígale al profesor como hace la clase más divertida");
 }
